@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - whosthemaan
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - whosthemaan/Ball_Tracking_and_Curve_Fitting
+  - whosthemaan/INR_Compression
+  - whosthemaan/CS231n_Solutions
+  - whosthemaan/Superpixels_and_Image_segmentation
+  - whosthemaan/A_Star_Turtlebot3
+  - whosthemaan/Image_Stitching
+  - whosthemaan/Autonomous_Turtlebot3
