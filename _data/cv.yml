@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: MEng - Robotics
+    - title: Masters of Engineering - Robotics
       institution: University of Maryland, College Park, USA
       year: 2022-2024
       description:
@@ -23,7 +23,7 @@
           - ENPM673 - Perception for Autonomous Robots
           - ENPM690 - Robot Learning
           - ENPM809K - Fundamentals for Artificial Intelligence and Deep Learning Framework
-        - title: other relevant courses
+        - title: other courses
           contents:
           - ENPM667 - Control of Robotic Systems
           - ENPM809Y - Intro to Robot Programming
@@ -31,17 +31,23 @@
           - ENPM662 - Intro to Robot Modeling
           - ENPM692 - Manufacturing and Automation
 
-    - title: BTech - Robotics and Automation
+    - title: Bachelors of Technology - Robotics and Automation
       institution: MIT World Peace University, Pune, India
       year: 2018-2022
       description:
-        - title: My research focus was on mobile robots and develop skills in following 
+        - title: My research focus was on fully autonomous mobile robots
           contents:
             - Control Systems
             - Embedded Programming (Texas Instruments M4 and Atmel Atmega 2560)
-            - Quick mechanisms protoyping for robotics applications
-
-        - Description 2.
+            - Quick mechanism protoyping for robotics applications
+            - MIT Tech Team (Robocon)
+        - title: Relevant Courses
+          contents:
+            - Artificial Intelligence
+            - Unmanned Aerial Vehicle
+            - Machine Vision System
+            - e-Vehicular Engineering
+            - Medical and Micro-Robots
 
 - title: Experience
   type: time_table
