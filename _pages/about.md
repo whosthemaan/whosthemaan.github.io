@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rowalt Dr,</p>
     <p>Graduate Gardens</p>
     <p>College Park, MD 20740</p>
 

@@ -2,30 +2,45 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Rohan Maan
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8th October 1999
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MEng - Robotics
+      institution: University of Maryland, College Park, USA
+      year: 2022-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Research focus on Computer Vision and Deep Learning
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+          - CMSC733 - Computer Processing of Pictorial Information
+          - CMSC828I - Advanced topics of Visual Learning and Recognition
+          - ENPM808 - Independent Study - Abhinav Shrivastava - Generate to Detect
+          - ENPM673 - Perception for Autonomous Robots
+          - ENPM690 - Robot Learning
+          - ENPM809K - Fundamentals for Artificial Intelligence and Deep Learning Framework
+        - title: other relevant courses
+          contents:
+          - ENPM667 - Control of Robotic Systems
+          - ENPM809Y - Intro to Robot Programming
+          - ENPM661 - Planning for Autonomous Robots
+          - ENPM662 - Intro to Robot Modeling
+          - ENPM692 - Manufacturing and Automation
+
+    - title: BTech - Robotics and Automation
+      institution: MIT World Peace University, Pune, India
+      year: 2018-2022
       description:
-        - Description 1.
+        - title: My research focus was on mobile robots and develop skills in following 
+          contents:
+            - Control Systems
+            - Embedded Programming (Texas Instruments M4 and Atmel Atmega 2560)
+            - Quick mechanisms protoyping for robotics applications
+
         - Description 2.
 
 - title: Experience
