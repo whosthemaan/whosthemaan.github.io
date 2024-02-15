@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- Hi! I am Rohan Maan, a Robotics enthusiast who loves to explore and develop deep learning algorithms to improve Robotic Perception. Having some experience with classical visio techniques, I aim to explore the limitations with generative models. Generative models have issues generalizing with content that they haven't seen before and hence it would be of value, if we are able to train them on some fundamental principles defined by humans.  -->
 
-Hi! I am Rohan Maan, a second year Robotics graduate student at the University of Maryland, College Park. My research interests is in `Computer Vision` especially on understanding and furthering the development of generative models. Following my masters, I look forward to start my PhD with a focus on Computer Vision for Robotics.
+Hi! I am Rohan Maan, a second year Robotics graduate student at the University of Maryland, College Park. My research interests lies in `Computer Vision` especially on understanding and furthering the development of generative models. Following my masters, I look forward to start my PhD with a focus on Computer Vision for Robotics.
 
 In 2018, I graduated with bachelors in `Robotics and Automation` at MIT WPU, Pune. I had the opportunity to learn embedded systems and Robotic system development from scratch. I have worked with Texas Instruments M4 and Atmel 2560 microcontrollers to perform macro robotic operations such as pick and place. High level task such as perception/planning involved ROS to keep multiple boards in sync. 
 
