@@ -52,67 +52,69 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Teaching Assistant
+      institution: University of Maryland, College Park
+      year: 08/23 - 05/24
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - I was co-teaching and creating/grading assignments for "Perception for Autonomous Robots" course in Spring 2024.
+        - I took a few tutorials on Deep Learning and HRI for "Human Robot Interaction" course in Fall 2023.
+    - title: Big Data and Vision Intern
+      institution: USDA - ARS, Arizona
+      year: 07/23 - 01/24
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed Tillage mapping algorithm for NASA HLS (Harmonized Landsat Sentinel 2) spatio-temporal data
+        - Developed Cloud cover inpainting algorithm using Masked AutoEncoders based on Transformers
+        - Publication on Tillage mapping is in progress
+    - title: Undergraduate Research Fellow
+      institution: I-Hub foundation for Cobotics, Delhi, India
+      year: 07/21 - 04/22
       description:
+        - Received grant of $18,000 to perform POC for Photogrammetry to classify land infringement.
+        - Performed 3D Reconstruction from images captured using custom built quadcopter.
+        - OpenDroneMap to produce 3D meshes -> produced occupancy grids -> area estimation
+    - title: Research Intern
+      institution: Indian Institute of Technology, Delhi, India
+      year: 07/21 - 03/22
+      description:
+        - Trained an Object detection model based on Masked RCNN architecture for midflight object classification.
+        - Performed pose estimation of drone using ArUco marker and PID based pose correction.
+    - title: CTO
+      institution: Autwn Private Limited, Pune, India
+      year: 03/21 - 07/21
+      description:
+        - Developed Health Kiosk to reduce the risk of Covid-19 spread in offices at peack 2nd wave in India.
+        - Developed embedded system for automatic opening and closing of UVC chamber for sanitization.
+        - Developed full stack software for automatic attendance based on facial recognition and automatic health parameters checking (SPO2 and temperature).
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Mathworks' Winner Circle
+        - ABU Robocon 2020 National winner
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Vision
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Generative AI
+        - Object Detection
+        - Pose Estimation and Active Vision
+    - title: Robotics
       items:
-        - Description 1.
-        - Description 2.
+        - Path Planning - A*, RRT, RRT*
+        - Simultaneous Localization and Mapping (SLAM)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Swimming, Trekking, Long Drives, Beaches
