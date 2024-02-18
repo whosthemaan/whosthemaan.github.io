@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <p>College Park, MD 20740</p>
+  more_info: <p>College Park, Maryland, USA</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
